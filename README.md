@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dahyun-eom
 - 🖥️ I’m sophomore majoring Computer Science
 - 🧠 I’m currently learning C language, neural network, Programming Abstractions....
-- 📫 How to reach me dahyun.eom@stonybrook.edu or codaeom@gmail.com
+- 📫 my email: dahyun.eom@stonybrook.edu or codaeom@gmail.com
 - 😄 Pronouns: she/her/hers
