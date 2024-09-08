@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @dahyun-eom
+- 👋 Hi, I’m Dahyun currently in New York🗽🇺🇸
 - 🖥️ I’m sophomore majoring Computer Science
-- 🧠 I’m currently learning C language, neural network, Programming Abstractions....
+  learning C language, neural network, Programming Abstractions....this year
 - 📫 my email: dahyun.eom@stonybrook.edu or codaeom@gmail.com
-- 😄 Pronouns: she/her/hers
