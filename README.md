@@ -1,3 +1,3 @@
-- 👩‍💻 Hi, I’m Dahyun 🗽
-- 🖥️ I’m sophomore majoring Computer Science
-- 📫 my email: dahyun.eom@stonybrook.edu or codaeom@gmail.com
+while(!coding master){
+  keep coding;
+}
